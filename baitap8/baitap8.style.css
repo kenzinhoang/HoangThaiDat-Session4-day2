@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 450px;
+    margin: 20px;
+}
+
+.content label {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.title-1 {
+    display: inline-block;
+    text-align: left;
+    padding: 20px 0px 20px 10px;
+}
+
+.title-2 {
+    font-size: large;
+    display: inline-block;
+    border: 0px;
+    background-color: white;
+    text-align: right;
+    width: 358px;
+    padding-right: 10px;
+}
+
+p {
+    border-top: 0.5px solid rgb(150, 150, 150);
+    border-bottom: 0.5px solid rgb(150, 150, 150);
+    padding: 20px 0px 20px 10px;
+    font-size: 16.5px;
+}
+
+.last {
+    text-align: right;
+    padding: 20px 10px 20px 0px;
+}
+
+.last button {
+    border: none;
+    border-radius: 5px;
+    background-color: #3665da;
+    color: white;
+    padding: 10px;
+
+}
